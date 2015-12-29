@@ -1,0 +1,36 @@
+{
+  "name": "bumped-http",
+  "description": "Exposes an HTTP Client to interact with API's endpoints.",
+  "homepage": "https://github.com/bumped/bumped-http",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "bumped/bumped-http",
+  "bugs": {
+    "url": "https://github.com/bumped/bumped-http/issues"
+  },
+  "keywords": [
+    "bumped",
+    "terminal"
+  ],
+  "dependencies": {
+    "coffee-script": "*",
+    "got": "~5.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}
