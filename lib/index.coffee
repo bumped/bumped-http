@@ -3,12 +3,13 @@
 got = require 'got'
 
 module.exports = (bumped, plugin, cb) ->
+  opts = plugin.opts
 
-  if plugin.options.body?
-    plugin.options.body = JSON.stringify plugin.options.body
+  if opts.body?
+    opts.body = JSON.stringify opts.body
 
-    unless plugin.options.headers?['Content-Type']
-      plugin.options.headers =
+    unless opts.headers?['Content-Type']
+      opts.headers =
         'Content-Type': 'application/json'
 
-  got plugin.url, plugin.options, cb
+  got plugin.url, opts, cb
