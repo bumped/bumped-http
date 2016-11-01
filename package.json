@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "coffee-script": "*",
-    "got": ">=5 <6"
+    "got": ">=6.6.0"
   },
   "devDependencies": {
     "mocha": "*",
