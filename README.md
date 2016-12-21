@@ -39,7 +39,7 @@ plugins:
       url: process.env.SLACK_ENDPOINT
       options:
         method: 'POST'
-        body: 'Deploy sucesfull'
+        body: 'Deploy successful'
 ```
 
 Internally it use [got](https://github.com/sindresorhus/got#api) client.
