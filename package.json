@@ -18,7 +18,10 @@
   },
   "keywords": [
     "bumped",
-    "terminal"
+    "plugin",
+    "http",
+    "request",
+    "api"
   ],
   "dependencies": {
     "coffee-script": "~1.12.0",
