@@ -1,3 +1,15 @@
+<a name="0.2.0"></a>
+# 0.2.0 (2017-03-19)
+
+* Remove unnecessary files ([7cb5998](https://github.com/bumped/bumped-http/commit/7cb5998))
+* Update got dependency ([58e1d1f](https://github.com/bumped/bumped-http/commit/58e1d1f))
+* Update interface ([3c3b7cd](https://github.com/bumped/bumped-http/commit/3c3b7cd))
+* Update keywords ([9596e97](https://github.com/bumped/bumped-http/commit/9596e97))
+* Update README.md ([3a9d763](https://github.com/bumped/bumped-http/commit/3a9d763))
+* chore(package): update dependencies ([5c59f71](https://github.com/bumped/bumped-http/commit/5c59f71))
+
+
+
 <a name="0.1.2"></a>
 ## 0.1.2 (2016-12-21)
 

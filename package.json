@@ -2,7 +2,7 @@
   "name": "bumped-http",
   "description": "Exposes an HTTP Client to interact with API's endpoints.",
   "homepage": "https://github.com/bumped/bumped-http",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "main": "./index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -17,11 +17,11 @@
     "url": "https://github.com/bumped/bumped-http/issues"
   },
   "keywords": [
+    "api",
     "bumped",
-    "plugin",
     "http",
-    "request",
-    "api"
+    "plugin",
+    "request"
   ],
   "dependencies": {
     "coffee-script": "~1.12.0",
