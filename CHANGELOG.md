@@ -1,3 +1,10 @@
+<a name="0.3.0"></a>
+# 0.3.0 (2017-03-19)
+
+* Support get url from global envs ([135fa0b](https://github.com/bumped/bumped-http/commit/135fa0b))
+
+
+
 <a name="0.2.0"></a>
 # 0.2.0 (2017-03-19)
 
