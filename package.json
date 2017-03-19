@@ -18,19 +18,22 @@
   },
   "keywords": [
     "bumped",
-    "terminal"
+    "plugin",
+    "http",
+    "request",
+    "api"
   ],
   "dependencies": {
-    "coffee-script": "*",
-    "got": ">=6.6.3"
+    "coffee-script": "~1.12.0",
+    "got": "~6.6.3",
+    "nodeify": "~1.0.0"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "latest",
+    "should": "latest"
   },
   "engines": {
-    "node": ">= 4",
-    "npm": ">= 1.4.0"
+    "node": ">= 4"
   },
   "scripts": {
     "test": "sh test/test.sh"
