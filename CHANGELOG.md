@@ -1,3 +1,10 @@
+<a name="1.0.0"></a>
+# 1.0.0 (2017-05-29)
+
+* chore(package): update got to version 7.0.0 ([ae41788](https://github.com/bumped/bumped-http/commit/ae41788))
+
+
+
 <a name="0.3.0"></a>
 # 0.3.0 (2017-03-19)
 
