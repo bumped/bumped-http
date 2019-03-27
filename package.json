@@ -2,7 +2,7 @@
   "name": "bumped-http",
   "description": "Exposes an HTTP Client to interact with API's endpoints.",
   "homepage": "https://github.com/bumped/bumped-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -16,10 +16,6 @@
   "bugs": {
     "url": "https://github.com/bumped/bumped-http/issues"
   },
-  "files": [
-    "lib",
-    "index.js"
-  ],
   "keywords": [
     "api",
     "bumped",
@@ -40,6 +36,10 @@
   "engines": {
     "node": ">= 4"
   },
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "scripts": {
     "test": "sh test/test.sh"
   },

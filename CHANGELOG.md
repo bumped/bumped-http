@@ -1,3 +1,12 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2019-03-27)
+
+* Add files meta field ([fedd194](https://github.com/bumped/bumped-http/commit/fedd194))
+* Migrate coffeescript ([0edef03](https://github.com/bumped/bumped-http/commit/0edef03))
+* update dependencies ([2d07cee](https://github.com/bumped/bumped-http/commit/2d07cee))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-05-29)
 
