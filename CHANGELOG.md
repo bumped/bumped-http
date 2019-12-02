@@ -1,3 +1,12 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2019-12-02)
+
+* build: update dependencies ([1739517](https://github.com/bumped/bumped-http/commit/1739517))
+* Update coffeescript requirement from ~2.3.2 to ~2.4.1 ([e2008aa](https://github.com/bumped/bumped-http/commit/e2008aa))
+* update travis builds ([fccd5ef](https://github.com/bumped/bumped-http/commit/fccd5ef))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2019-03-27)
 
