@@ -1,3 +1,9 @@
+## <small>1.0.3 (2019-12-09)</small>
+
+* build: update dependencies ([9dc1e02](https://github.com/bumped/bumped-http/commit/9dc1e02))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2019-12-02)
 
