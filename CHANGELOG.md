@@ -1,3 +1,17 @@
+## <small>1.0.4 (2020-04-02)</small>
+
+* build: update dependencies ([e8dd83c](https://github.com/bumped/bumped-http/commit/e8dd83c))
+* Bump coffeescript from 2.4.1 to 2.5.0 ([90361a6](https://github.com/bumped/bumped-http/commit/90361a6))
+* Bump got from 10.0.4 to 10.1.0 ([39810c8](https://github.com/bumped/bumped-http/commit/39810c8))
+* Bump got from 10.1.0 to 10.2.0 ([d856708](https://github.com/bumped/bumped-http/commit/d856708))
+* Bump got from 10.2.2 to 10.3.0 ([9c7e4c4](https://github.com/bumped/bumped-http/commit/9c7e4c4))
+* Bump got from 10.3.0 to 10.4.0 ([e0445d5](https://github.com/bumped/bumped-http/commit/e0445d5))
+* Bump got from 10.4.0 to 10.5.0 ([63a6feb](https://github.com/bumped/bumped-http/commit/63a6feb))
+* Bump got from 10.5.7 to 10.6.0 ([15b223a](https://github.com/bumped/bumped-http/commit/15b223a))
+* Bump got from 10.6.0 to 10.7.0 ([2ca9787](https://github.com/bumped/bumped-http/commit/2ca9787))
+
+
+
 ## <small>1.0.3 (2019-12-09)</small>
 
 * build: update dependencies ([9dc1e02](https://github.com/bumped/bumped-http/commit/9dc1e02))
