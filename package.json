@@ -24,7 +24,7 @@
     "request"
   ],
   "dependencies": {
-    "coffeescript": "~2.5.1",
+    "coffeescript": "~2.6.0",
     "got": "~11.8.1",
     "lodash.get": "~4.4.2",
     "nodeify": "~1.0.1"
